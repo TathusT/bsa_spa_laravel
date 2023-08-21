@@ -1,3 +1,3 @@
 # bsa_spa_laravel
-cp .env.example .env
-php artisan key:generate
+<p>cp .env.example .env</p>
+<p>php artisan key:generate</p>
